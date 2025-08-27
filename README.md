@@ -5,6 +5,13 @@ Saya seorang **Machine Learning Developer** yang sedang menempuh kuliah di Unive
 Saya memiliki ketertarikan dibidang pengolahan data dan pengembangan aplikasi dalam kehidupan sehari-hari.<br>
 
 Jika Anda Tertarik untuk berkenalan denganku, silahkan ikuti akun [linkedIn](https://www.linkedin.com/in/andrapratama05/)ku ya.
+
+<p>
+  <a href="https://github.com/andrapratama05">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=andrapratama05&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=andrapratama05&layout=compact&theme=algoila"/>
+  </a>
+</p>
 <!--
 ## Hi there 👋
 
