@@ -1,6 +1,13 @@
+# Halo Semua👋
+
+Perkenalkan nama saya **Andra Pratama**.<br>
+Saya seorang **Machine Learning Developer** yang sedang menempuh kuliah di Universitas Pembangunan Nasional "Veteran" Jawa Timur.<br>
+Saya memiliki ketertarikan dibidang pengolahan data dan pengembangan aplikasi dalam kehidupan sehari-hari.<br>
+
+Jika Anda Tertarik untuk berkenalan denganku, silahkan ikuti akun [linkedIn](https://www.linkedin.com/in/andrapratama05/)ku ya.
+<!--
 ## Hi there 👋
 
-<!--
 **andrapratama05/andrapratama05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
